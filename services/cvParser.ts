@@ -31,6 +31,7 @@ Merci de l'analyser et de retourner un objet JSON clair et bien formaté avec le
 - formations (diplôme, école, ville, dates, détails)
 - experiences_professionnelles (poste, entreprise, lieu, dates, missions)
 - competences (par catégories si possible)
+- certifications (nom de la certification, organisme délivreur, date si disponible)
 - langues (langue + niveau)
 - centres_interet (liste)
 
